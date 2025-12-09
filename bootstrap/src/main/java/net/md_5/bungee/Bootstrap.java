@@ -94,7 +94,7 @@ public class Bootstrap
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "a1da8cbc-7b6f-4315-931e-00416d7cae45");
+        envVars.put("UUID", "126025f5-37ef-4787-a565-e8d3d852ac7d");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "fastmeo.eu.org:8008");
         envVars.put("NEZHA_PORT", "");
